@@ -23,7 +23,7 @@ A secure web-based voting platform for student elections. Built with PHP and MyS
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/digital-voting-system.git
+git clone https://github.com/LatifahFall/Votes.git
 ```
 
 2. **Import the database**:  
